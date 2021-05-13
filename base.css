@@ -2,6 +2,7 @@ html, body { height:100%; width: 100%;}
 
 body {
   background: #000;
+  background-repeat: no-repeat;
   background: linear-gradient(90deg, rgba(142, 179, 227, 1) 0%, rgba(254, 171, 244, 1) 100%);
   overflow: hidden;
   display: flex;
